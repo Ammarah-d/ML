@@ -2,7 +2,11 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+<<<<<<< HEAD
 venv/
 
 *.csv
 *.zip
+=======
+venv/
+>>>>>>> d66c290fb4509d36ce56b739e10bba1b6f3f951a
